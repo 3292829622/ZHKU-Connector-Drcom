@@ -2,7 +2,7 @@
 
 ## 项目背景
 
-当电脑需要远程连接或下载文件时，需要长期保持校园网连接。但由于校园网系统会不定期踢人下线，导致连接中断。原项目<mcfile name="ZHKU-Connector" path="https://github.com/Jin-Cheng-Ming/ZHKU-Connector"></mcfile>因海珠校区更换为drcom系统而失效，因此开发了本项目，参考了<mcfile name="drcom-generic" path="https://github.com/drcoms/drcom-generic"></mcfile>。本项目借助Trae AI开发，实现了自动重连功能。
+当电脑需要远程连接或下载文件时，需要长期保持校园网连接。但由于校园网系统会不定期踢人下线，导致连接中断。原项目"https://github.com/Jin-Cheng-Ming/ZHKU-Connector"因海珠校区更换为drcom系统而失效，因此开发了本项目，参考了"https://github.com/drcoms/drcom-generic",本项目借助Trae开发，实现了自动重连功能。
 
 ## 功能特点
 
